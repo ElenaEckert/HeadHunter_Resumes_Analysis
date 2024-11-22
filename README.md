@@ -1,0 +1,2 @@
+# HeadHunter_Resumes_Analysis
+Skillfactory training project
