@@ -50,7 +50,7 @@ Skillfactory training project
 
 Для полного взаимодействия с проектом можно использовать [Google Colab](https://colab.research.google.com/) по следующей ссылке:
 
-[Открыть проект в Google Colab](https://drive.google.com/file/d/1-QqHaUJnf6MYwRoxfIl48T-ocyqBQ3iz/view?usp=sharing)
+[Открыть проект в Google Colab](https://colab.research.google.com/drive/1uWYVmouyRbLzckcVlNFQIQ64gvgpO2Mh?usp=sharing)
 
 В Google Colab интерактивные графики работают корректно.
 
@@ -62,7 +62,7 @@ Skillfactory training project
 - Взаимосвязь уровня образования и возраста с уровнем зарплат
 - Графики распределения опыта и возраста соискателей
 
-Более подробную информацию можно найти в [ноутбуке на Google Диске](https://drive.google.com/file/d/1-QqHaUJnf6MYwRoxfIl48T-ocyqBQ3iz/view?usp=sharing).
+Более подробную информацию можно найти в ноутбуке: Project-1._Ноутбук-шаблон.ipynb.
 
 ## Контакты
 
